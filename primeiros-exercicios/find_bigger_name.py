@@ -1,3 +1,6 @@
+''' Recebe uma lista de nomes e retorn a o maior nome '''
+
+
 def find_biggest_name(names):
     biggest_name = ""
     for name in names:
